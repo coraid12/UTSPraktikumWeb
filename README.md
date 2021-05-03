@@ -16,3 +16,7 @@
 ## Page ABOUT US
 
 ![hasil3](https://user-images.githubusercontent.com/56239989/116820015-0d857f80-ab9d-11eb-8beb-f25d02336fc2.jpg)
+
+## Page CONTACT US
+
+![hasil4](https://user-images.githubusercontent.com/56239989/116848875-c9839080-ac17-11eb-994d-136e73df427d.jpg)
