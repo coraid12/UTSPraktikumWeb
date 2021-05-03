@@ -7,7 +7,7 @@
 
 - **BAGIAN ATAS**
 
-![hasil1](https://user-images.githubusercontent.com/56239989/116819949-bed7e580-ab9c-11eb-966d-f6332ab17123.jpg)
+![hasil1](https://user-images.githubusercontent.com/56239989/116849036-19faee00-ac18-11eb-830b-16f15988a24f.jpg)
 
 - **BAGIAN BAWAH**
 
